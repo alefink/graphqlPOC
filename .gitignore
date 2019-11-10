@@ -1,7 +1,7 @@
 #Ignore all  .txt
 *.txt
 
-#Ignore all folder target
+#Ignore folder target
 target/
 
 
