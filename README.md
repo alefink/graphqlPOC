@@ -13,7 +13,7 @@ My purpose is to eliminate the service layers and only implement mutator and que
 The purpose is to eliminate the service layers and only implement mutator and query resolvers.
 Without spring-controllers that expose services only types and mutators.
 
-**IDEAS:**
+**IDEAS:** 
 Customize the server console
 Edit the graphql schemas.
 Recompile the graphql schemas.
