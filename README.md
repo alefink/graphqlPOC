@@ -15,10 +15,10 @@ Without spring-controllers that expose services only types and mutators.
 
 **IDEAS:** 
 
-Customize the server console
-1. Edit the graphql schemas.
-2. Recompile the graphql schemas.
-3. Upload new graphql schemes.
-4. Upload new mutators resolver from jar.
+1. Customize the server console
+2. Edit the graphql schemas.
+3. Recompile the graphql schemas.
+4. Upload new graphql schemes.
+5. Upload new mutators resolver from jar.
 
 
