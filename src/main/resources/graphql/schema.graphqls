@@ -1,11 +1,3 @@
-type Vehicle {
-	id: ID!,
-	type: String,
-	modelCode: String,
-	brandName: String,
-	launchDate: String,
-	descript: String
-}
 
 type User {
 	id: ID!,
@@ -17,20 +9,10 @@ type User {
 
 
 type Query {
-	vehicles(count: Int):[Vehicle]
-	vehicle(id: ID):Vehicle	
-}
-
-type Query {
 	users(count: Int):[User]
 	user(id: ID):User	
 }
 
-
 type Mutation {
-	createVehicle(type: String!, modelCode: String!, brandName: String, launchDate: String, descript:String):Vehicle
-}
-
-type Mutation {
-	createUser(name: String!, lastName: String, nickName: String, pass: String):User
+	createUser(name: String, lastName: String, nickName: String, pass: String):User
 }

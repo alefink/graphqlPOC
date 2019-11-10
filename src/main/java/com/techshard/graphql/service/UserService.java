@@ -16,10 +16,10 @@ import com.techshard.graphql.dao.repository.UserRepository;
 @Service
 public class UserService {
 
-	private final UserRepository userRepository ;
+	private final UserRepository userRepository;
 
 	public UserService(final UserRepository userRepository) {
-        this.userRepository = userRepository ;
+        this.userRepository = userRepository;
     }	
 
     @Transactional

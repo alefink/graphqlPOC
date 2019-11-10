@@ -1,0 +1,11 @@
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\dao\entity\Vehicle.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\mutation\UserMutation.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\dao\repository\VehicleRepository.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\Application.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\mutation\VehicleMutation.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\query\VehicleQuery.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\dao\entity\User.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\query\UserQuery.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\service\VehicleService.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\dao\repository\UserRepository.java
+C:\dvl\spring\graphql-with-spring-boot\src\main\java\com\techshard\graphql\service\UserService.java
