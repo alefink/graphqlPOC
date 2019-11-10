@@ -10,8 +10,6 @@ import org.springframework.stereotype.Component;
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
 import com.techshard.graphql.dao.entity.User;
 import com.techshard.graphql.dao.repository.UserRepository;
-import com.techshard.graphql.service.UserService;
-
 
 @Component
 public class UserQuery implements GraphQLQueryResolver {
