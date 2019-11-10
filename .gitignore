@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Ignore all  .txt
 *.txt
 
@@ -7,3 +8,14 @@ target/
 
 #Ignore all .class
 *.class
+=======
+#Ignore all  .txt
+*.txt
+
+#Ignore folder target
+target/
+
+
+#Ignore all .class
+*.class
+>>>>>>> 443c392d1fd8eef66eae26448fc8048a5105ecdc
