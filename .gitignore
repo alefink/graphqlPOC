@@ -1,0 +1,9 @@
+#Ignore all  .txt
+*.txt
+
+#Ignore folder target
+target/
+
+
+#Ignore all .class
+*.class
