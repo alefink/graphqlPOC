@@ -4,7 +4,7 @@ Facade server for different service from different endpoints.
 Only have to define mutators, querys, types in the schema.graphqls file and then implement the Resolvers:  
 **GraphQLMutationResolver, GraphQLQueryResolver interfaces**.  
 And if you want services wraps that invoke external services from other domain.  
-Inspired by [micro services architecture](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)
+Inspired by [MSA architecture](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)
 My purpose is to eliminate the service layers and only implement mutator and query resolvers. 
 [This was based on repo code.](https://github.com/swathisprasad/graphql-with-spring-boot) 
 
