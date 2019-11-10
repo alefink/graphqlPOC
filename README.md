@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SPING-BOOT GARAPHQL.
 
 Facade server for different service from different endpoints.  
