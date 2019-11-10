@@ -28,7 +28,7 @@ public class UserMutation implements GraphQLMutationResolver {
         user.setPassword(pass);
        
         return this.userRepository.save(user);
-		// probar y si funciona bien eliminar abas lineas y eliminar la clase userService.java.
+		// probar y si funciona bien eliminar ambas lineas y eliminar la clase userService.java.
 		//return this.userService.createUser(name, lastName, nickName, pass);
 	}
 	

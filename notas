@@ -1,0 +1,3 @@
+Fecha:10-11-2019
+No se usa mas el userServices dese UserMutation se usan Repositoris.
+Asi que para la proxima se deberan eliminar las clases NnnnServices y mergear al master asi es vercion 1.0.
