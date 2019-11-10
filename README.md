@@ -14,8 +14,11 @@ The purpose is to eliminate the service layers and only implement mutator and qu
 Without spring-controllers that expose services only types and mutators.
 
 **IDEAS:** 
+
 Customize the server console
-Edit the graphql schemas.
-Recompile the graphql schemas.
-Upload new graphql schemes.
+1. Edit the graphql schemas.
+2. Recompile the graphql schemas.
+3. Upload new graphql schemes.
+4. Upload new mutators resolver from jar.
+
 
